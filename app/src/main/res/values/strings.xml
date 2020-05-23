@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chinmay MoviesApp</string>
+
+    <string-array name="sort_types">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+    <string name="Date">Date</string>
+    <string name="film_name">Film Name</string>
+    <string name="film_image">Film Image</string>
+    <string name="Overview">Overview</string>
+    <string name="Rating">Rating</string>
+    <string name="sort_films">Sort Films</string>
+</resources>

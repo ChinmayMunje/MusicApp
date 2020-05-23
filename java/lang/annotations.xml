@@ -1,0 +1,6 @@
+<root>
+    <!--suppress DeprecatedClassUsageInspection -->
+    <item name='java.lang.Override'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
